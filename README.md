@@ -1,0 +1,1 @@
+# https-lovable.dev-projects-myproject-prototype.lovable.app
