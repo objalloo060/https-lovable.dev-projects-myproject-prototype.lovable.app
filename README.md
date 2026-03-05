@@ -1,1 +1,1 @@
- https-lovable.dev-projects-myproject-prototype.lovable.app
+https://github.com/objalloo060/myproject-prototype-42df1055.git
