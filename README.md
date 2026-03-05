@@ -1,1 +1,1 @@
-# https-lovable.dev-projects-myproject-prototype.lovable.app
+ https-lovable.dev-projects-myproject-prototype.lovable.app
